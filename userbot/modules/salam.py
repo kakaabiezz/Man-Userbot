@@ -64,9 +64,9 @@ async def _(event):
     await xx.edit("**LU SEMUA NGENTOT 🔥**")
 
 
-@man_cmd(pattern="ass(?: |$)(.*)")
+@man_cmd(pattern="royal(?: |$)(.*)")
 async def _(event):
-    xx = await edit_or_reply(event, "**Salam Dulu Biar Sopan**")
+    xx = await edit_or_reply(event, "**ROYAL BANGET SIH**")
     sleep(2)
     await xx.edit("**السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ**")
 

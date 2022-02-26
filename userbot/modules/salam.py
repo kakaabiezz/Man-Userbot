@@ -68,7 +68,7 @@ async def _(event):
 async def _(event):
     xx = await edit_or_reply(event, "**ROYAL BANGET SIH**")
     sleep(2)
-    await xx.edit("**السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ**")
+    await xx.edit("**PASTINYA ROYAL HEHE**")
 
 
 CMD_HELP.update(

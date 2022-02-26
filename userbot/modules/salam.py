@@ -19,7 +19,7 @@ async def _(event):
 async def _(event):
     await event.client.send_message(
         event.chat_id,
-        "**Assalamualaikum Warahmatullahi Wabarakatuh**",
+        "**kontolllllll**",
         reply_to=event.reply_to_msg_id,
     )
     await event.delete()
